@@ -1,7 +1,9 @@
 point = int(input())
 bonus_point = 0
+
 if point <= 100:
     bonus_point = 5
+
 elif point < 1000:
     bonus_point = point * 0.20
 else:
