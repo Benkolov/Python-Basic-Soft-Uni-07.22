@@ -1,3 +1,3 @@
-# Python-Basic-SoftUni
-Lectures
-Tasks
+# Python-Basic-Sof-tUni
+
+![img.png](img.png)
